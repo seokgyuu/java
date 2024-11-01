@@ -10,10 +10,10 @@ public class 프로그래머스홀짝구분하기 {
 		int a = sc.nextInt();
 		
 		if(a % 2 == 0) {
-			System.out.printf("%d is odd",a);
+			System.out.println(a +"is odd");
 		}
 		else {
-			System.out.printf("%d is even" ,a);
+			System.out.println(a+ "is even");
 		}
 	}
 
